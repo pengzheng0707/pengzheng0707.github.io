@@ -31,16 +31,20 @@ Feel free to connect with me or explore my work further! 😊
 
 <div class='paper-box'>
 
-<div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/semantichumanhd.png' alt="sym" width="500"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div><div class="badge">arXiv2024</div><img src='images/semantichumanhd.png' alt="sym" width="500"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation](https://arxiv.org/abs/2403.10166)
+  [SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation](https://arxiv.org/abs/2403.10166)
 
-**Peng Zheng**, Tao Liu, Zili Yi, Rui Ma
+  **Peng Zheng**, Tao Liu, Zili Yi, Rui Ma
 
-- We introduce SemanticHuman-HD, the first method to achieve semantic disentangled human image synthesis. Notably, SemanticHuman-HD is also the first method to achieve 3D-aware image synthesis at 10242 resolution, benefiting from our proposed 3D-aware super-resolution module
+  - We introduce SemanticHuman-HD, the first method to achieve semantic disentangled human image synthesis. Notably, SemanticHuman-HD is also the first method to achieve 3D-aware image synthesis at 10242 resolution, benefiting from our proposed 3D-aware super-resolution module
+  </div>
 </div>
 
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/3dssg.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +54,9 @@ Ruiqi Liu, **Peng Zheng**, Ye Wang, Rui Ma
 
 - We propose 3D-SSGAN, a novel framework for 3D-aware compositional portrait image synthesis. First, a simple yet effective depth-guided 2D-to-3D lifting module maps the generated 2D part features and semantics to 3D. Then, a volume renderer with a novel 3D-aware semantic mask renderer is utilized to produce the composed face features and corresponding masks. 
 </div>
+</div>
 
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/taylor.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +71,7 @@ Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
 
 
 # 🎖 Honors and Awards
-- *2023* Received a third prize in the Second Jittor Artificial Intelligence Competition. 
+- *2023:* Received a third prize in the Second Jittor Artificial Intelligence Competition. 
 
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S., Jilin University, Computer Science and Technology.

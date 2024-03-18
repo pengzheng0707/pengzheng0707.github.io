@@ -23,7 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Zheng"
   avatar           : "images/zp.png"
-  bio              : "Jilin University"
   location         : "Changchun, China"
   employer         :
   pubmed           : 
@@ -36,7 +35,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "pengzheng0707"
   google_plus      :
   keybase          :
   instagram        :
