@@ -50,7 +50,7 @@ Feel free to connect with me or explore my work further! 😊
 
 [3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis](https://arxiv.org/abs/2401.03764)
 
-Ruiqi Liu, **Peng Zheng**, Ye Wang, Rui Ma
+Ruiqi Liu*, **Peng Zheng***, Ye Wang, Rui Ma
 
 - We propose 3D-SSGAN, a novel framework for 3D-aware compositional portrait image synthesis. First, a simple yet effective depth-guided 2D-to-3D lifting module maps the generated 2D part features and semantics to 3D. Then, a volume renderer with a novel 3D-aware semantic mask renderer is utilized to produce the composed face features and corresponding masks. 
 </div>
