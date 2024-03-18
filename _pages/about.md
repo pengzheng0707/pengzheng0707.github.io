@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Zheng Peng, currently pursuing my second year of graduate studies at Jilin University. Currently, I am a member of the Intelligent Content Learning (ICL) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural radiance fields (NeRF).
+Hello! I’m Zheng Peng, currently pursuing my second year of graduate studies at Jilin University. Currently, I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural radiance fields (NeRF).
 
 I have the privilege of being advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). My journey in the field of artificial intelligence has been exciting, and I’m passionate about exploring novel ways to create and understand visual content.
 
@@ -40,7 +33,7 @@ Feel free to connect with me or explore my work further! 😊
 
   **Peng Zheng**, Tao Liu, Zili Yi, Rui Ma
 
-  - We introduce SemanticHuman-HD, the first method to achieve semantic disentangled human image synthesis. Notably, SemanticHuman-HD is also the first method to achieve 3D-aware image synthesis at 10242 resolution, benefiting from our proposed 3D-aware super-resolution module
+  - We introduce SemanticHuman-HD, the first method to achieve semantic disentangled human image synthesis. Notably, SemanticHuman-HD is also the first method to achieve 3D-aware image synthesis at 10242 resolution, benefiting from our proposed 3D-aware super-resolution module.
   </div>
 </div>
 
@@ -50,7 +43,14 @@ Feel free to connect with me or explore my work further! 😊
 
 [3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis](https://arxiv.org/abs/2401.03764)
 
-Ruiqi Liu*, **Peng Zheng***, Ye Wang, Rui Ma
+<style>
+  .co-first-author::after {
+    content: '*';
+    color: red;
+  }
+</style>
+
+Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-first-author"></span>, Ye Wang, Rui Ma
 
 - We propose 3D-SSGAN, a novel framework for 3D-aware compositional portrait image synthesis. First, a simple yet effective depth-guided 2D-to-3D lifting module maps the generated 2D part features and semantics to 3D. Then, a volume renderer with a novel 3D-aware semantic mask renderer is utilized to produce the composed face features and corresponding masks. 
 </div>
