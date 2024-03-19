@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Zheng Peng, currently pursuing my second year of graduate studies at Jilin University. Currently, I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural radiance fields (NeRF).
+Hello! I’m Peng Zheng (or 郑鹏, in Chinese), currently pursuing my second year of graduate studies at Jilin University. Currently, I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural radiance fields (NeRF).
 
 I have the privilege of being advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). My journey in the field of artificial intelligence has been exciting, and I’m passionate about exploring novel ways to create and understand visual content.
 
