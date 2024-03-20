@@ -29,7 +29,7 @@ Feel free to connect with me or explore my work further! 😊
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation](https://arxiv.org/abs/2403.10166)
+  [SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation](https://pengzheng0707.github.io/SemanticHuman-HD/)
 
   **Peng Zheng**, Tao Liu, Zili Yi, Rui Ma
 
