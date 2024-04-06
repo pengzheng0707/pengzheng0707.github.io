@@ -74,5 +74,5 @@ Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
 - *2023:* Received a third prize in the Second Jittor Artificial Intelligence Competition. 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, M.S., Jilin University, Computer Science and Technology.
-- *2018.09 - 2022.06*, B.S., Jilin University, Agricultural Mechanization and Automation.
+- *2022.09 - 2025.06*, M.E., Jilin University, Computer Science and Technology.
+- *2018.09 - 2022.06*, B.E., Jilin University, Agricultural Mechanization and Automation.
