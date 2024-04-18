@@ -50,6 +50,13 @@ Feel free to connect with me or explore my work further! 😊
   }
 </style>
 
+<style>
+  .co-corresponding-author::after {
+    content: '#';
+    color: red;
+  }
+</style>
+
 Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-first-author"></span>, Ye Wang, Rui Ma
 
 - We propose 3D-SSGAN, a novel framework for 3D-aware compositional portrait image synthesis. First, a simple yet effective depth-guided 2D-to-3D lifting module maps the generated 2D part features and semantics to 3D. Then, a volume renderer with a novel 3D-aware semantic mask renderer is utilized to produce the composed face features and corresponding masks. 
@@ -66,9 +73,19 @@ Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
 
 - In this paper, we aim for both fast and high-quality implicit field learning, and propose TaylorGrid, a novel implicit field representation which can be efficiently computed via direct Taylor expansion optimization on 2D or 3D grids. 
 </div>
-
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/D-Aug.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Aug: Enhancing Data Augmentation for Dynamic LiDAR Scenes](https://arxiv.org/abs/2404.11127)
+
+Jiaxing Zhao, **Peng Zheng**<span class="co-corresponding-author"></span>, Rui Ma<span class="co-corresponding-author"></span>
+
+- We propose D-Aug, a LiDAR data augmentation method tailored for augmenting dynamic scenes. D-Aug extracts objects and inserts them into dynamic scenes, considering the continuity of these objects across consecutive frames.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023:* Received a third prize in the Second Jittor Artificial Intelligence Competition. 
