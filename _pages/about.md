@@ -19,7 +19,7 @@ Feel free to connect with me or explore my work further! 😊
 
 # 🔥 News
 - *2024.08*: One paper is accepted by PG 2024. Thanks to Ruiqi Liu!
-- *2024.07*: One paper is accepted by ECCV 2024
+- *2024.07*: One paper is accepted by ECCV 2024.
 - *2024.03*: Create my homepage. 
 
 # 📝 Publications 
