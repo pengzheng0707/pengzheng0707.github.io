@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Peng Zheng (or 郑鹏, in Chinese), currently pursuing my second year of graduate studies at Jilin University. Currently, I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural radiance fields (NeRF).
+Hello! I’m Peng Zheng (郑鹏 in Chinese), currently pursuing my first year of a PhD program at Jilin University, where I am also involved in joint training at the Shanghai Innovation Institute. I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural rendering.
 
 I have the privilege of being advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). My journey in the field of artificial intelligence has been exciting, and I’m passionate about exploring novel ways to create and understand visual content.
 
@@ -18,6 +18,8 @@ Feel free to connect with me or explore my work further! 😊
 
 
 # 🔥 News
+- *2024.08*: One paper is accepted by PG 2024. Thanks to Ruiqi Liu!
+- *2024.07*: One paper is accepted by ECCV 2024
 - *2024.03*: Create my homepage. 
 
 # 📝 Publications 
@@ -25,7 +27,7 @@ Feel free to connect with me or explore my work further! 😊
 <div class='paper-box'>
 
   <div class='paper-box-image'>
-    <div><div class="badge">arXiv2024</div><img src='images/semantichumanhd.png' alt="sym" width="500"></div>
+    <div><div class="badge">ECCV 2024</div><img src='images/semantichumanhd.png' alt="sym" width="500"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -38,7 +40,7 @@ Feel free to connect with me or explore my work further! 😊
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/3dssg.png' alt="sym" width="500"></div></div>
+<div class='paper-box-image'><div><div class="badge">PG 2024</div><img src='images/3dssg.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis](https://arxiv.org/abs/2401.03764)
