@@ -107,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Enable justified alignment for paragraphs inside .page__content
+.page__content p {
+  text-align: justify;
+}
