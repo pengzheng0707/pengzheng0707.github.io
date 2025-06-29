@@ -18,11 +18,38 @@ Feel free to connect with me or explore my work further! 😊
 
 
 # 🔥 News
+- *2025.06*: One paper is accepted by ICCV 2025.
 - *2024.08*: One paper is accepted by PG 2024. Thanks to Ruiqi Liu!
 - *2024.07*: One paper is accepted by ECCV 2024.
 - *2024.03*: Create my homepage. 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/discon.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis](https://pengzheng0707.github.io/DisCon)
+
+<style>
+  .co-first-author::after {
+    content: '*';
+    color: red;
+  }
+</style>
+
+<style>
+  .co-corresponding-author::after {
+    content: '#';
+    color: red;
+  }
+</style>
+
+**Peng Zheng**, Junke Wang, Yi Chang, Yizhou Yu, Rui Ma<span class="co-corresponding-author"></span>, Zuxuan Wu<span class="co-corresponding-author"></span>
+
+- This paper introduces DisCon (Discrete-Conditioned Continuous Autoregressive Model), a novel framework that reinterprets discrete tokens as conditional signals rather than generation targets. By modeling the conditional probability of continuous representations conditioned on discrete tokens, DisCon circumvents the optimization challenges of continuous token modeling while avoiding the information loss caused by quantization. DisCon achieves a gFID score of 1.38 on ImageNet 256 generation, SOTA autoregressive approaches by a clear margin.
+</div>
+</div>
 
 <div class='paper-box'>
 
