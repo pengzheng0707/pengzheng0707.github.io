@@ -47,7 +47,7 @@ Feel free to connect with me or explore my work further! 😊
 
 **Peng Zheng**, Junke Wang, Yi Chang, Yizhou Yu, Rui Ma<span class="co-corresponding-author"></span>, Zuxuan Wu<span class="co-corresponding-author"></span>
 
-- This paper introduces DisCon (Discrete-Conditioned Continuous Autoregressive Model), a novel framework that reinterprets discrete tokens as conditional signals rather than generation targets. By modeling the conditional probability of continuous representations conditioned on discrete tokens, DisCon circumvents the optimization challenges of continuous token modeling while avoiding the information loss caused by quantization. DisCon achieves a gFID score of 1.38 on ImageNet 256 generation, SOTA autoregressive approaches by a clear margin.
+- This paper introduces DisCon (Discrete-Conditioned Continuous Autoregressive Model), a novel framework that reinterprets discrete tokens as conditional signals rather than generation targets. By modeling the conditional probability of continuous representations conditioned on discrete tokens, DisCon circumvents the optimization challenges of continuous token modeling while avoiding the information loss caused by quantization.
 </div>
 </div>
 
