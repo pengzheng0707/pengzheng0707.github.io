@@ -146,5 +146,10 @@ Jiaxing Zhao, **Peng Zheng**<span class="co-corresponding-author"></span>, Rui M
 - *2023:* Received a third prize in the Second Jittor Artificial Intelligence Competition. 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, M.E., Jilin University, Computer Science and Technology.
-- *2018.09 - 2022.06*, B.E., Jilin University, Agricultural Mechanization and Automation.
+- *2024.09 – Present*, Ph.D. Student, Jilin University, Artificial Intelligence  
+- *2022.09 – 2024.06*, M.E. Student (transferred to Ph.D. program), Jilin University, Artificial Intelligence  
+- *2018.09 – 2022.06*, B.E., Jilin University, Agricultural Mechanization and Automation
+
+# 🔍 Reviewing Activities
+- *2025:* Reviewer for NeurIPS 2025  
+- *2025:* Reviewer for CAD/Graphics 2025
