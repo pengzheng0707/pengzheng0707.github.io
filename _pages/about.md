@@ -96,7 +96,7 @@ Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-fi
 <div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/freelora.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization]()
+[FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization](https://pengzheng0707.github.io/FreeLoRA)
 
  **Peng Zheng**, Ye Wang, Rui Ma, Zuxuan Wu
 
