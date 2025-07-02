@@ -93,6 +93,32 @@ Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-fi
 </div>
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/freelora.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization]()
+
+ **Peng Zheng**, Ye Wang, Rui Ma, Zuxuan Wu
+
+- We present FreeLoRA, a simple and generalizable framework that enables training-free fusion of subject-specific LoRA modules for multi-subject personalization. It achieves high-quality composition without additional finetuning, and supports flexible combinations of diverse subjects at inference time.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/supernerf-gan.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis](https://arxiv.org/pdf/2501.06770)
+
+ **Peng Zheng**, Linzhi Huang, Yizhou Yu, Yilin Wang, Rui Ma
+
+- We propose SuperNeRF-GAN, a universal framework for 3D-consistent super-resolution. A key highlight of SuperNeRF-GAN
+is its seamless integration with NeRF-based 3D-aware image synthesis methods and it can simultaneously enhance the resolution
+of generated images while preserving 3D-consistency and reducing computational cost. 
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/taylor.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
