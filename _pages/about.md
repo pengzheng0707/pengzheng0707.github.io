@@ -181,5 +181,4 @@ Jiaxing Zhao, **Peng Zheng**<span class="co-corresponding-author"></span>, Rui M
 - *2018.09 – 2022.06*, B.E., Jilin University, Agricultural Mechanization and Automation
 
 # 🔍 Reviewing Activities
-- *2025:* Reviewer for NeurIPS 2025  
-- *2025:* Reviewer for CAD/Graphics 2025
+- Served as a reviewer for **NeurIPS**, **ECCV**, **CAD/Graphics**, and **IEEE Transactions on Multimedia (TMM)**
