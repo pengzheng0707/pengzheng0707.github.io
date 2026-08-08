@@ -10,11 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Peng Zheng (郑鹏 in Chinese), currently pursuing my first year of a PhD program at Jilin University, where I am also involved in joint training at the Shanghai Innovation Institute. I am a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team) group within the School of Artificial Intelligence at Jilin University. My research interests lie in generative models and neural rendering.
+Hello! I'm **Peng Zheng** (郑鹏 in Chinese), a Ph.D. student at the **School of Artificial Intelligence, Jilin University**, advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). I am also jointly trained at the **Shanghai Innovation Institute**, under the supervision of Professor [Zuxuan Wu](https://zxwu.azurewebsites.net/).
 
-I have the privilege of being advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). My journey in the field of artificial intelligence has been exciting, and I’m passionate about exploring novel ways to create and understand visual content.
+My research primarily focuses on **AIGC**, with a particular emphasis on **controllable visual content generation**. I am interested in developing efficient, controllable, and scalable generative models for high-fidelity visual content creation.
 
-Feel free to connect with me or explore my work further! 😊
+More recently, I have become increasingly interested in **video generation** and **world models**, and I am excited to explore these emerging directions in future research.
+
+Feel free to reach out if you are interested in research discussions or potential collaborations! 😊
 
 
 # 🔥 News
@@ -24,6 +26,34 @@ Feel free to connect with me or explore my work further! 😊
 - *2024.03*: Create my homepage. 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/copycat.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CopyCat: Improving Fine-Grained Subject Consistency in Subject-to-Image Models within Seconds](https://arxiv.org/pdf/2608.00674v1)
+
+**Peng Zheng**, Ruiqi Liu, Rui Ma, Zuxuan Wu
+
+- We propose CopyCat, a lightweight post-training refinement framework that substantially improves fine-grained subject consistency within only a few seconds. By introducing a lightweight Fine-grained Consistency LoRA and an exact self-reconstruction objective, CopyCat consistently enhances subject fidelity while generalizing to unseen subjects without any subject-specific optimization.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/omnistyle2.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniStyle2: Scalable and High Quality Artistic Style Transfer Data Generation via Destylization](https://arxiv.org/pdf/2509.05970)
+
+Ye Wang, Zili Yi, Yibo Zhang, **Peng Zheng**, Xuping Xie, Linlian Jiang, Yilin Wang<span class="co-corresponding-author"></span>, Rui Ma<span class="co-corresponding-author"></span>
+
+- OmniStyle2 presents a scalable framework for generating high-quality artistic style transfer datasets through destylization, enabling large-scale data synthesis and significantly improving artistic image generation across diverse styles.
+
+</div>
+</div>
+
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/discon.png' alt="sym" width="500"></div></div>
@@ -105,12 +135,12 @@ Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-fi
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/supernerf-gan.png' alt="sym" width="500"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVM 2026(recommended to JCST)</div><img src='images/supernerf-gan.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis](https://arxiv.org/pdf/2501.06770)
+[A 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis](https://iccvm.org/2026/files/papers/233.pdf)
 
- **Peng Zheng**, Linzhi Huang, Yizhou Yu, Yilin Wang, Rui Ma
+ **Peng Zheng**, Yi Chang, Yilin Wang, Rui Ma
 
 - We propose SuperNeRF-GAN, a universal framework for 3D-consistent super-resolution. A key highlight of SuperNeRF-GAN
 is its seamless integration with NeRF-based 3D-aware image synthesis methods and it can simultaneously enhance the resolution
