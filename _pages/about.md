@@ -25,20 +25,9 @@ Feel free to reach out if you are interested in research discussions or potentia
 - *2024.07*: One paper is accepted by ECCV 2024.
 - *2024.03*: Create my homepage. 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/copycat.png' alt="sym" width="500"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CopyCat: Improving Fine-Grained Subject Consistency in Subject-to-Image Models within Seconds](https://arxiv.org/pdf/2608.00674v1)
-
-**Peng Zheng**, Ruiqi Liu, Rui Ma, Zuxuan Wu
-
-- We propose CopyCat, a lightweight post-training refinement framework that substantially improves fine-grained subject consistency within only a few seconds. By introducing a lightweight Fine-grained Consistency LoRA and an exact self-reconstruction objective, CopyCat consistently enhances subject fidelity while generalizing to unseen subjects without any subject-specific optimization.
-
-</div>
-</div>
+<h2 class="publication-group-title"><span>Published</span></h2>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/omnistyle2.png' alt="sym" width="500"></div></div>
@@ -50,6 +39,20 @@ Ye Wang, Zili Yi, Yibo Zhang, **Peng Zheng**, Xuping Xie, Linlian Jiang, Yilin W
 
 - OmniStyle2 presents a scalable framework for generating high-quality artistic style transfer datasets through destylization, enabling large-scale data synthesis and significantly improving artistic image generation across diverse styles.
 
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CVM 2026 (recommended to JCST)</div><img src='images/supernerf-gan.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis](https://iccvm.org/2026/files/papers/233.pdf)
+
+ **Peng Zheng**, Yi Chang, Yilin Wang, Rui Ma
+
+- We propose SuperNeRF-GAN, a universal framework for 3D-consistent super-resolution. A key highlight of SuperNeRF-GAN
+is its seamless integration with NeRF-based 3D-aware image synthesis methods and it can simultaneously enhance the resolution
+of generated images while preserving 3D-consistency and reducing computational cost.
 </div>
 </div>
 
@@ -122,8 +125,23 @@ Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-fi
 </div>
 </div>
 
+<h2 class="publication-group-title"><span>arXiv Preprints</span></h2>
+
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv2025</div><img src='images/freelora.png' alt="sym" width="500"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/copycat.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CopyCat: Improving Fine-Grained Subject Consistency in Subject-to-Image Models within Seconds](https://arxiv.org/pdf/2608.00674v1)
+
+**Peng Zheng**, Ruiqi Liu, Rui Ma, Zuxuan Wu
+
+- We propose CopyCat, a lightweight post-training refinement framework that substantially improves fine-grained subject consistency within only a few seconds. By introducing a lightweight Fine-grained Consistency LoRA and an exact self-reconstruction objective, CopyCat consistently enhances subject fidelity while generalizing to unseen subjects without any subject-specific optimization.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/freelora.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization](https://pengzheng0707.github.io/FreeLoRA)
@@ -135,33 +153,7 @@ Ruiqi Liu<span class="co-first-author"></span>, **Peng Zheng**<span class="co-fi
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVM 2026(recommended to JCST)</div><img src='images/supernerf-gan.png' alt="sym" width="500"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis](https://iccvm.org/2026/files/papers/233.pdf)
-
- **Peng Zheng**, Yi Chang, Yilin Wang, Rui Ma
-
-- We propose SuperNeRF-GAN, a universal framework for 3D-consistent super-resolution. A key highlight of SuperNeRF-GAN
-is its seamless integration with NeRF-based 3D-aware image synthesis methods and it can simultaneously enhance the resolution
-of generated images while preserving 3D-consistency and reducing computational cost. 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/taylor.png' alt="sym" width="500"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization](https://arxiv.org/abs/2402.14415)
-
-Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
-
-- In this paper, we aim for both fast and high-quality implicit field learning, and propose TaylorGrid, a novel implicit field representation which can be efficiently computed via direct Taylor expansion optimization on 2D or 3D grids. 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv2024</div><img src='images/D-Aug.png' alt="sym" width="500"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/D-Aug.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [D-Aug: Enhancing Data Augmentation for Dynamic LiDAR Scenes](https://arxiv.org/abs/2404.11127)
@@ -169,6 +161,18 @@ Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
 Jiaxing Zhao, **Peng Zheng**<span class="co-corresponding-author"></span>, Rui Ma<span class="co-corresponding-author"></span>
 
 - We propose D-Aug, a LiDAR data augmentation method tailored for augmenting dynamic scenes. D-Aug extracts objects and inserts them into dynamic scenes, considering the continuity of these objects across consecutive frames.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/taylor.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization](https://arxiv.org/abs/2402.14415)
+
+Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
+
+- In this paper, we aim for both fast and high-quality implicit field learning, and propose TaylorGrid, a novel implicit field representation which can be efficiently computed via direct Taylor expansion optimization on 2D or 3D grids.
 </div>
 </div>
 

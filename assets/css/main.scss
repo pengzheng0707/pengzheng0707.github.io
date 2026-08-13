@@ -117,3 +117,28 @@ h1:before, .anchor:before {
   text-align: justify;
 }
 
+.publication-group-title {
+    display: flex;
+    align-items: center;
+    gap: .9rem;
+    margin: 1.8rem 0 .25rem;
+    border: 0;
+    color: #4a5568;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+
+    span {
+        flex: 0 0 auto;
+        padding: .28rem .75rem;
+        border-radius: 999px;
+        background: #f3f6fb;
+    }
+
+    &::after {
+        content: '';
+        width: 100%;
+        height: 1px;
+        background: linear-gradient(to right, #dfe5ee, transparent);
+    }
+}
