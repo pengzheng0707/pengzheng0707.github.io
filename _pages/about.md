@@ -185,4 +185,4 @@ Renyi Mao, Qingshan Xu, **Peng Zheng**, Ye Wang, Tieru Wu, Rui Ma
 - *2018.09 – 2022.06*, B.E., Jilin University, Agricultural Mechanization and Automation
 
 # 🔍 Reviewing Activities
-- Served as a reviewer for **NeurIPS**, **ECCV**, **CAD/Graphics**, and **TMM**
+- Served as a reviewer for **NeurIPS**, **ECCV**, **CAD/Graphics**, **TMM**, and **CAG/CG**

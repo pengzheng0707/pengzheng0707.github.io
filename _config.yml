@@ -23,10 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Zheng"
   avatar           : "images/zp.png"
-  bio              : "School of Artificial Intelligence, Jilin University"
-  location         : "Changchun, China"
+  bio              : "Jilin University & Shanghai Innovation Institute"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=YERRAEAAAAAJ"
   email            : "zhengpeng22@mails.jlu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
