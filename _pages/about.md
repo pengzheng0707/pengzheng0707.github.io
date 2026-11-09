@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm **Peng Zheng** (郑鹏 in Chinese), a Ph.D. student at the **School of Artificial Intelligence, Jilin University**, advised by Associate Professor [Rui Ma](https://ruim-jlu.github.io). I am also jointly trained at the **Shanghai Innovation Institute**, under the supervision of Professor [Zuxuan Wu](https://zxwu.azurewebsites.net/).
+Hello! I'm **Peng Zheng** (郑鹏 in Chinese), a Ph.D. student at the **School of Artificial Intelligence, Jilin University**. I am also jointly trained at the **Shanghai Innovation Institute**, under the supervision of Professor [Zuxuan Wu](https://zxwu.azurewebsites.net/).
 
 My research primarily focuses on **AIGC**, with a particular emphasis on **controllable visual content generation**. I am interested in developing efficient, controllable, and scalable generative models for high-fidelity visual content creation.
 
